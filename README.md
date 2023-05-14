@@ -1,29 +1,23 @@
 05-Third-Party APIs Work Day Scheduler
 
-Creating a simple calendar application that allows a user to save events for each hour of the day by modifying starter code. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
-
-You'll need to use the [Day.js](https://day.js.org/en/) library to work with date and time. Be sure to read the documentation carefully and concentrate on using Day.js in the browser.
-
-
 USER STORY:
 
-AS AN employee with a busy schedule
-I WANT to add important events to a daily planner
-SO THAT I can manage my time effectively
+Work Day Scheduler is a simple online calendar that allows a user to save events for each hour of the day. This scheduler will run in the browser, allowing the user to save a retrieve data from the web browser's local storage.
 
-GIVEN I am using a daily planner to create a schedule
-WHEN I open the planner
-THEN the current day is displayed at the top of the calendar
-WHEN I scroll down
-THEN I am presented with timeblocks for standard business hours
-WHEN I view the timeblocks for that day
-THEN each timeblock is color coded to indicate whether it is in the past, present, or future
-WHEN I click into a timeblock
-THEN I can enter an event
-WHEN I click the save button for that timeblock
-THEN the text for that event is saved in local storage
-WHEN I refresh the page
-THEN the saved events persist
+
+The Work Day Scheduler will display the current day in the calendar header and will update daily.
+
+The user will be offered timeblocks for standard business hours that will be color coded for Past (gray), Present (red) and future (green).
+
+The user will be allowed to save their calendar of events and appointments by entering their details, then clicking the save button to save it into the scheduler. This data will be available to the user even after refreshing, and the user will be able to continue editting, saving, and displaying their scheduler without losing data.
+
+
+APPLICATIONS USED:
+
+    -HTML
+    -CSS
+    -JavaScript
+    -JQuery
 
 
 The following animation demonstrates the Work Day Scheduler's functionality:
