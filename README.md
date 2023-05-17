@@ -24,3 +24,8 @@ The following animation demonstrates the Work Day Scheduler's functionality:
 ![Scheduler in action](assets/scheduler.gif)
 
 
+GitHub Repository:
+https://github.com/WHT-RBT/05-3rdParty-APIs-WorkDay-Scheduler
+
+Direct Link:
+https://wht-rbt.github.io/05-3rdParty-APIs-WorkDay-Scheduler/
