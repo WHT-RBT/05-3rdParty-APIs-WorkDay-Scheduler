@@ -19,9 +19,8 @@ APPLICATIONS USED:
     -JQuery
 
 
-The following picture displays the Work Day Scheduler's functionality:
+The following animation demonstrates the Work Day Scheduler's functionality:
 
-<!-- @TODO: create ticket to review/update image) -->
-![A user clicks on slots on the color-coded calendar and edits the events.](./Assets/05-third-party-apis-homework-demo.gif)
+![Scheduler in action](assets/scheduler.gif)
 
 
